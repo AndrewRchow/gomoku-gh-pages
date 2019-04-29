@@ -3,8 +3,9 @@ body {
   margin: 20px;
 }
 
-ol, ul {
-  padding-left: 30px;
+.game{
+  margin-top:2%;
+  margin-left:2%;
 }
 
 .board-row:after {
@@ -46,9 +47,10 @@ ol, ul {
 }
 
 .game-info {
-  margin-left: 20px;
+  margin-left: 30px;
   max-height:450px;
   overflow:auto;
+  font-weight:bold;
 }
 
 .winningSquare {
@@ -58,12 +60,15 @@ ol, ul {
 
 ol{
   list-style:none;
+  padding-left:0px;
 }
 
 ol li{
   margin-bottom:4px;
 }
-
+li:first-child { 
+  margin-bottom:15px;
+}
 
 /* 
 .square {

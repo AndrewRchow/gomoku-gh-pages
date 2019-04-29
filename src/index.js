@@ -100,7 +100,7 @@ class Game extends React.Component {
       const desc = move ?
         'Move ' + move :
         // 'Go to move #' + move :
-        'Begin';
+        'Restart';
       // 'Go to game start';
 
       if(move){
