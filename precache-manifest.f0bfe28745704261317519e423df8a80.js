@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cbbcbadb5d47a987916c",
-    "url": "/gomoku-gh-pages/static/css/main.4bdab6d8.chunk.css"
+    "revision": "3a47937d0858cb85d708",
+    "url": "/gomoku-gh-pages/static/css/main.be85d67b.chunk.css"
   },
   {
-    "revision": "cbbcbadb5d47a987916c",
-    "url": "/gomoku-gh-pages/static/js/main.7c8f27e4.chunk.js"
+    "revision": "3a47937d0858cb85d708",
+    "url": "/gomoku-gh-pages/static/js/main.5db9afbc.chunk.js"
   },
   {
     "revision": "235700e5e0adfb3444dc",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/gomoku-gh-pages/static/js/2.8e81696d.chunk.js"
   },
   {
-    "revision": "d3f4eb61f537d08c8caa8f29eaedb156",
+    "revision": "7d5516ed2ea43cd0a435b37266f7988f",
     "url": "/gomoku-gh-pages/index.html"
   }
 ];
